@@ -6,8 +6,10 @@
 <body>
   <font face="Consolas"><center>
   <br>
-  <img src="img/logo-medium.png" alt="logo">
+    <img src="img/logo-medium.png" alt="logo">
+  <br><br>
+    <p>yourserver.rip development has started!</p>
   <br>
-  <p>yourserver.rip web app coming soon</p>
+    <p>Please keep your arms and legs inside the hype train as it leaves the station</p>
   </font></center>
 </body>
